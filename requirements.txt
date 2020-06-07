@@ -1,6 +1,6 @@
 aniso8601==7.0.0
 coverage==4.5.4
-Django==2.2.8
+Django==2.2.13
 django-graphql-jwt==0.2.2
 django-nose==1.4.6
 factory-boy==2.12.0
